@@ -59,5 +59,10 @@
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/ss_97dfd31784f9c51d2c603ac3f36ae52fac401de3.1920x1080.jpg?t=1666817106",
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/ss_21900922e7f1352eb85be881a6346b759d9a7fb7.1920x1080.jpg?t=1666817106"
     ]
+  },
+  "gameCovers": {
+    "976310": "https://kostando2014-alt.github.io/ym-pc-covers-2026/assets/post_976310__main_3x4.jpg",
+    "1934570": "https://kostando2014-alt.github.io/ym-pc-covers-2026/assets/post_1934570__main_3x4.jpg",
+    "2492040": "https://kostando2014-alt.github.io/ym-pc-covers-2026/assets/post_2492040__main_3x4.jpg"
   }
 }
